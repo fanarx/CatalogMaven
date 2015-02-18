@@ -24,6 +24,7 @@ public class LibUtil {
 	private static int k;
 
 	public static Book addBooktoCatalog(BookCatalog catalog, Book book) {
+		
 		List<Book> books = catalog.getBooks();
 		books.add(book);
 		catalog.setBooks(books);
