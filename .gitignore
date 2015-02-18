@@ -9,22 +9,22 @@ RemoteSystemsTempFiles/
 
 # eclipse specific git ignore
 *.pydevproject
-.project
-.metadata
-bin/**
-tmp/**
-tmp/**/*
+*/.project
+*/.metadata
+*/bin/**
+*/tmp/**
+*/tmp/**/*
 *.tmp
 *.bak
 *.swp
 *~.nib
-local.properties
-.classpath
-.settings/
-.loadpath
+*/local.properties
+*/.classpath
+*/.settings/
+*/.loadpath
 
 # External tool builders
-.externalToolBuilders/
+*/.externalToolBuilders/
 
 # Locally stored "Eclipse launch configurations"
 *.launch
