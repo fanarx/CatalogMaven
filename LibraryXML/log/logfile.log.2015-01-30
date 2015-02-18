@@ -1,0 +1,28 @@
+
+19:01:12 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - Successfully validated
+19:01:12 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 77 - The book with title jjjj xml entry is valid.
+19:01:12 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - Successfully validated
+19:01:12 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 222 - The catalog is valid
+19:02:39 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - Successfully validated
+19:02:39 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 77 - The book with title uu xml entry is valid.
+19:02:39 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - Successfully validated
+19:02:39 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 222 - The catalog is valid
+19:04:03 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - Successfully validated17:02:22 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - Successfully validated
+17:02:22 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 77 - The book with title vnvnv xml entry is valid.
+17:02:22 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - Successfully validated
+17:02:22 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 223 - catalog.xml is valid
+17:08:45 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - onlybook.xml is successfully validated
+17:08:45 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 77 - The book with title jaja xml entry is valid.
+17:08:45 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - catalog.xml is successfully validated
+17:08:45 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 223 - catalog.xml is valid
+17:18:38 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - onlybook.xml is successfully validated
+17:18:38 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 77 - The book with title tio xml entry is valid.
+17:18:38 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - catalog.xml is successfully validated
+17:18:38 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 221 - The book with name tio is in catalog.
+17:22:44 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - firstCatalog.xml is successfully validated
+17:25:51 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 38 - secondCatalog.xml is not valid
+17:26:37 ERROR [main] - com.mycomp.library.validator.XmlValidator.validateXSD 42 - tt.xml is not found
+17:29:21 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - onlybook.xml is successfully validated
+17:29:21 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 77 - The book with title lala xml entry is valid.
+17:29:21 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 34 - catalog.xml is successfully validated
+17:29:21 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 221 - The book with name lala is in catalog.

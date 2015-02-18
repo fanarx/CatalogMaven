@@ -1,0 +1,41 @@
+14:06:20 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:07:09 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - singlebook.xml is successfully validated
+14:07:09 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 80 - The book with title c++ xml entry is valid.
+14:07:09 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:07:09 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 225 - The book with name c++ is in catalog.
+14:08:15 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - singlebook.xml is successfully validated
+14:08:15 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 80 - The book with title The Sun Also Rises xml entry is valid.
+14:08:15 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:08:15 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 225 - The book with name The Sun Also Rises is in catalog.
+14:09:27 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:10:18 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - singlebook.xml is successfully validated
+14:10:18 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 80 - The book with title The Potrait of Dorian Grey xml entry is valid.
+14:10:18 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:10:18 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 225 - The book with name The Potrait of Dorian Grey is in catalog.
+14:11:32 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - singlebook.xml is successfully validated
+14:11:32 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 80 - The book with title The old man and the sea xml entry is valid.
+14:11:32 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:11:32 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 225 - The book with name The old man and the sea is in catalog.
+14:18:31 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:19:19 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - singlebook.xml is successfully validated
+14:19:19 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 80 - The book with title Karamazov Brothers xml entry is valid.
+14:19:19 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:19:19 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 225 - The book with name Karamazov Brothers is in catalog.
+14:20:28 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - singlebook.xml is successfully validated
+14:20:28 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 80 - The book with title The Fountainhead xml entry is valid.
+14:20:28 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:20:28 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 225 - The book with name The Fountainhead is in catalog.
+14:25:52 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:27:16 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - singlebook.xml is successfully validated
+14:27:16 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 80 - The book with title The Fight Club xml entry is valid.
+14:27:16 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:27:16 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 226 - The book with name The Fight Club is in catalog.
+14:31:49 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:34:32 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - singlebook.xml is successfully validated
+14:34:32 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 80 - The book with title The Brothers Karamazov xml entry is valid.
+14:34:32 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:34:32 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 226 - The book with name The Brothers Karamazov is in catalog.
+14:35:33 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - singlebook.xml is successfully validated
+14:35:33 DEBUG [main] - com.mycomp.library.util.LibUtil.validatingBook 80 - The book with title The fountainhead xml entry is valid.
+14:35:33 DEBUG [main] - com.mycomp.library.validator.XmlValidator.validateXSD 33 - catalog.xml is successfully validated
+14:35:33 DEBUG [main] - com.mycomp.library.util.LibUtil.enterBook 226 - The book with name The fountainhead is in catalog.

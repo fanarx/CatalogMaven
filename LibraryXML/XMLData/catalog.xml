@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookCatalog>
+    <book>
+        <name>The Fight Club</name>
+        <author>
+            <firstName>Chuck</firstName>
+            <lastName>Palahniuk</lastName>
+        </author>
+        <ISBN>iiii</ISBN>
+        <count>4</count>
+        <editionYear>1950</editionYear>
+        <pubCompany>ppp</pubCompany>
+    </book>
+    <book>
+        <name>The Brothers Karamazov</name>
+        <author>
+            <firstName>Fyodor</firstName>
+            <lastName>Dostoevskiy</lastName>
+        </author>
+        <ISBN>issbn</ISBN>
+        <count>4</count>
+        <editionYear>1820</editionYear>
+        <pubCompany>ppp</pubCompany>
+    </book>
+    <book>
+        <name>The fountainhead</name>
+        <author>
+            <firstName>Ayn</firstName>
+            <lastName>Rand</lastName>
+        </author>
+        <ISBN>issbbnn</ISBN>
+        <count>8</count>
+        <editionYear>1930</editionYear>
+        <pubCompany>ppp</pubCompany>
+        <description>alfj</description>
+    </book>
+</bookCatalog>

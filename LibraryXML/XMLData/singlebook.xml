@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<book>
+    <name>The fountainhead</name>
+    <author>
+        <firstName>Ayn</firstName>
+        <lastName>Rand</lastName>
+    </author>
+    <ISBN>issbbnn</ISBN>
+    <count>8</count>
+    <editionYear>1930</editionYear>
+    <pubCompany>ppp</pubCompany>
+    <description>alfj</description>
+</book>
