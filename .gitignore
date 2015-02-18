@@ -1,7 +1,7 @@
 .metadata/
 Servers/
 RemoteSystemsTempFiles/
-LibraryXML/bin/
+LibraryXML/
 *target*
 *.jar
 *.war
